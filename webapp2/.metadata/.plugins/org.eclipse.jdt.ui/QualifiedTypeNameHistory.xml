@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.catalina.startup.Tomcat"/>
+<fullyQualifiedTypeName name="org.apache.catalina.connector.Connector"/>
+<fullyQualifiedTypeName name="org.apache.catalina.LifecycleException"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+<fullyQualifiedTypeName name="org.apache.catalina.core.StandardContext"/>
+<fullyQualifiedTypeName name="org.apache.catalina.WebResourceRoot"/>
+<fullyQualifiedTypeName name="org.apache.catalina.webresources.DirResourceSet"/>
+<fullyQualifiedTypeName name="org.apache.catalina.webresources.StandardRoot"/>
+</qualifiedTypeNameHistroy>
