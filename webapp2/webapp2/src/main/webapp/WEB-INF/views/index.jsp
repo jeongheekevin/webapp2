@@ -128,11 +128,11 @@
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="tables.jsp">
+        <a class="nav-link" href="tables.do">
           <i class="fas fa-fw fa-table"></i>
           <span>Tables</span></a>
       </li>
-      <a href = "tables.jsp"> table!!!!!!</a>
+      <a href = "tables.do"> table!!!!!!</a>
       
 
       <!-- Divider -->
